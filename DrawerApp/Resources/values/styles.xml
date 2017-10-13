@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="DrawerAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">false</item>>
+    <item name="colorPrimary">#5A8622</item>
+    <item name="colorPrimaryDark">#1976D2</item>
+    <item name="colorAccent">#FF4081</item>
+  </style>
+</resources>

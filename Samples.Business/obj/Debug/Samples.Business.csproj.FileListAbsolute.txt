@@ -6,6 +6,7 @@ D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\OxyPlot.Xamarin.Android.dll
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\OxyPlot.pdb
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\OxyPlot.xml
+D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\OxyPlot.dll.mdb
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\OxyPlot.Xamarin.Android.xml
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\obj\Debug\Samples.Business.csprojResolveAssemblyReference.cache
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\obj\Debug\Samples.Business.dll
