@@ -54,6 +54,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="DataModel\ChartModel.cs" />
     <Compile Include="DataModel\NavItem.cs" />
+    <Compile Include="DataModel\Shakespeare.cs" />
     <Compile Include="Manager\ChartManager.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
