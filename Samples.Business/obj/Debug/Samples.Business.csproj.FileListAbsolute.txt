@@ -21,3 +21,7 @@ D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\obj\Debug
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\Samples.Business.dll.mdb
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\obj\Debug\Samples.Business.dll.mdb
 D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\Samples.Business.dll.mdb
+D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\obj\Debug\Samples.Business.dll.mdb
+D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\Samples.Business.dll.mdb
+D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\obj\Debug\Samples.Business.dll.mdb
+D:\Data\Documents\Visual Studio 2015\Projects\Xamarin\Samples.Business\bin\Debug\Samples.Business.dll.mdb

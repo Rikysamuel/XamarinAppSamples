@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samples.Business", "Samples
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawerApp", "DrawerApp\DrawerApp.csproj", "{ED049AF4-6460-47D4-A7A0-76DEE6B677F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToolbarApp", "ToolbarApp\ToolbarApp.csproj", "{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,12 @@ Global
 		{ED049AF4-6460-47D4-A7A0-76DEE6B677F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED049AF4-6460-47D4-A7A0-76DEE6B677F3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{ED049AF4-6460-47D4-A7A0-76DEE6B677F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D99CAF8D-DF39-4670-BF96-4A44BCDFB4B8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
